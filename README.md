@@ -1,10 +1,10 @@
 <div align="center">
 
-# Prithwijit Ghosh
+# Hi, I'm Prithwijit Ghosh 👋
 
-**Data Scientist @ Accenture Technology** &nbsp;·&nbsp; M.Sc. Statistics, IIT Kanpur
+🧑‍💻 **Data Scientist @ Accenture Technology** &nbsp;·&nbsp; 🎓 M.Sc. Statistics, IIT Kanpur
 
-Forecasting · Risk Scoring · MLOps · Applied ML & AI Systems
+📈 Forecasting &nbsp;·&nbsp; ⚠️ Risk Scoring &nbsp;·&nbsp; 🚨 Anomaly Detection &nbsp;·&nbsp; ⚙️ MLOps &nbsp;·&nbsp; 🤖 Applied ML & AI Systems
 
 <br>
 
